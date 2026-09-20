@@ -9,6 +9,7 @@ A native Android application built with Kotlin and XML designed to help a client
 * Bread Type Selector: Dropdown menu allowing to choose between popular style presets (Classic, Integral, Rye, Focaccia,Cinnamon rolls,Starter).
 * Dynamic Baker's Math: Real-time calculation of Water, Starter, and Salt weights based on custom input ratios.
 * Smart Numeric Keypad: Text inputs locked to numeric/decimal views to prevent invalid user inputs.
+* Common calculations sector: Everyday calculations alredy saved and displayed.
 * Clean Vertical Layout: Lightweight UI built with `LinearLayout` for optimal performance and cross-device responsiveness.
 
 ---
@@ -25,4 +26,4 @@ A native Android application built with Kotlin and XML designed to help a client
 * Target: SDK Android 14 / 15 (
 * IDE: Android Studio
 
-* 
+*CODE IS NOT SHARED DUE TO BAKERY PRIVACY
